@@ -1,0 +1,10 @@
+{
+  "name": "Metrics",
+  "description": "Metrics team that supports sales, marketing and all the other lovely business functions.",
+  "type": "Team",
+  "priority": 6,
+  "meta": {
+    "github_url": "https://github.com/burnt-tomatoes/metrics",
+    "slack_channel": "#metrics-team",
+  }
+}
